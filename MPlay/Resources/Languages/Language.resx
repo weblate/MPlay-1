@@ -103,4 +103,7 @@
   <data name="Theme" xml:space="preserve">
     <value>Theme</value>
   </data>
+  <data name="Layout" xml:space="preserve">
+    <value>Layout</value>
+  </data>
 </root>
