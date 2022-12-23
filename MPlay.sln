@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPlay", "MPlay\MPlay.csproj", "{2D534FFA-50FD-4334-B4A6-64057C94C93F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D534FFA-50FD-4334-B4A6-64057C94C93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D534FFA-50FD-4334-B4A6-64057C94C93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D534FFA-50FD-4334-B4A6-64057C94C93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D534FFA-50FD-4334-B4A6-64057C94C93F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31914918-7666-4123-AB5E-0837C0147C6F}
+	EndGlobalSection
+EndGlobal
