@@ -103,4 +103,7 @@
   <data name="Theme" xml:space="preserve">
     <value>Vzhled</value>
   </data>
+  <data name="Layout" xml:space="preserve">
+    <value>Rozložení</value>
+  </data>
 </root>
